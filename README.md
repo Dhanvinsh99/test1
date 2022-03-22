@@ -1,2 +1,4 @@
-# test1
-i will be testing ways to use html and python and display time on a website
+# time
+time using api in python
+do checkout and make some changes if you wish to
+this is a simpler version of a typical python digital clock
